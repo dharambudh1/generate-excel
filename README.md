@@ -1,16 +1,11 @@
-# generate_excel
+# Generate & Download Excel Demo
 
-A new Flutter project.
+## Description:
+This is a simple app that helps you generate and download Excel files. You can use it on Android, iOS, and the web.
 
-## Getting Started
+- On Android, if you click Generate Excel, the file will be saved in your Downloads folder.
+- For iOS, when you press Generate Excel, a menu will pop up with choices like copying the file or saving it.
+- If you're using the web version, hitting Generate Excel can either ask you to download the file or save it straight to your Downloads folder.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Preview
+![alt text](https://i.postimg.cc/9fkWgB1Y/Screenshot-2023-11-02-at-3-46-44-PM.png "img")
